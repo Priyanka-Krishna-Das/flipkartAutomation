@@ -10,6 +10,7 @@ public class TC_001_Login extends BaseClass{
 		BaseClass bc=new BaseClass();
 		bc.broserLaunch("chrome");
 		System.out.println("today");
+		System.out.println("through cmd");
 	}
 	  
 
